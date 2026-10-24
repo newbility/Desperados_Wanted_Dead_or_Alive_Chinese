@@ -1,0 +1,13 @@
+{
+  "ok": true,
+  "translatedMenuEntries": 139,
+  "sharedChineseDialogueAndMissionEntries": 49,
+  "tutorialPages": 6,
+  "checks": [
+    "original resource IDs, voice paths and image data preserved",
+    "all 49 referenced demo text entries resolve to Chinese resources",
+    "original tutorial page count, order and 640x480 dimensions preserved",
+    "all six generated tutorial images decode correctly",
+    "main patch dependency hashes checked"
+  ]
+}

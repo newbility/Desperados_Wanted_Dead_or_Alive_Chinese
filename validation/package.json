@@ -1,0 +1,14 @@
+{
+  "ok": true,
+  "resources": 31,
+  "bytes": 186689994,
+  "checks": [
+    "all payload hashes match the two verified packages",
+    "31 unique resource paths without conflicts",
+    "all Demo font and text dependencies provided by this package"
+  ],
+  "sourcePackages": [
+    "修复版汉化补丁",
+    "Demo关卡汉化补丁"
+  ]
+}

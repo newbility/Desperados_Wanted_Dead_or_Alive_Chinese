@@ -1,0 +1,18 @@
+{
+  "ok": true,
+  "resources": 2,
+  "fonts": 13,
+  "videos": 12,
+  "captions": 117,
+  "checks": [
+    "resource IDs and voice paths preserved",
+    "all 1086 campaign dialogue entries translated",
+    "original Latin glyphs and metrics preserved",
+    "translated glyph coverage checked",
+    "font textures fit 32768 width",
+    "debriefing layout data preserved",
+    "video format and duration preserved",
+    "original audio packets preserved",
+    "all converted videos decoded without errors"
+  ]
+}

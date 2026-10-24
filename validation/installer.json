@@ -1,0 +1,26 @@
+[
+  {
+    "case": "fresh",
+    "ok": true
+  },
+  {
+    "case": "main-only",
+    "ok": true
+  },
+  {
+    "case": "both-installed",
+    "ok": true
+  },
+  {
+    "case": "missing-backup",
+    "ok": true
+  },
+  {
+    "case": "write-failure",
+    "ok": true
+  },
+  {
+    "case": "restore-conflict",
+    "ok": true
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "ok": true,
+  "interactiveSelectionAutomated": false,
+  "checks": [
+    "Windows PowerShell 5 STA launcher",
+    "selected path with Chinese, spaces and square brackets",
+    "installation record stores exact chosen path",
+    "resource installation and restoration at chosen path",
+    "native folder selector initializes"
+  ]
+}
