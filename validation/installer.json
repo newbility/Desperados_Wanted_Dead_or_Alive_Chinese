@@ -1,26 +1,42 @@
 [
   {
-    "case": "fresh",
-    "ok": true
+    "ok": true,
+    "case": "fresh"
   },
   {
-    "case": "main-only",
-    "ok": true
+    "ok": true,
+    "case": "main-only"
   },
   {
-    "case": "both-installed",
-    "ok": true
+    "ok": true,
+    "case": "both-installed"
   },
   {
-    "case": "missing-backup",
-    "ok": true
+    "ok": true,
+    "case": "combined-upgrade"
   },
   {
-    "case": "write-failure",
-    "ok": true
+    "ok": true,
+    "case": "upgrade-write-failure"
   },
   {
-    "case": "restore-conflict",
-    "ok": true
+    "ok": true,
+    "case": "fresh-write-failure"
+  },
+  {
+    "ok": true,
+    "case": "missing-backup"
+  },
+  {
+    "ok": true,
+    "case": "unknown-resource"
+  },
+  {
+    "ok": true,
+    "case": "bad-backup"
+  },
+  {
+    "ok": true,
+    "case": "restore-conflict"
   }
 ]

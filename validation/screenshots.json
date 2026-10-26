@@ -1,0 +1,89 @@
+{
+  "screenshots": [
+    {
+      "path": "docs/images/original-menu.png",
+      "version": "原汉化字体",
+      "scene": "主菜单",
+      "kind": "actual-game-screenshot",
+      "pixelsUnmodified": true,
+      "width": 2559,
+      "height": 1602,
+      "sha256": "afd38ad56b1c762e1d8b2b06592e4842a8a0edb79913dc0a24cf05c62cd7e881"
+    },
+    {
+      "path": "docs/images/sourcehan-v2.2.0-menu.png",
+      "version": "思源黑体 v2.2.0",
+      "scene": "主菜单（优化前）",
+      "kind": "actual-game-screenshot",
+      "pixelsUnmodified": true,
+      "width": 2561,
+      "height": 1602,
+      "sha256": "a02ed85c6025bee6bc1be2ee7528b2ebf7ab1248ad9d6962fd9a1a6061ea2b6a"
+    },
+    {
+      "path": "docs/images/sourcehan-v2.2.1-menu.png",
+      "version": "思源黑体 v2.2.1",
+      "scene": "主菜单（菜单优化后）",
+      "kind": "actual-game-screenshot",
+      "pixelsUnmodified": true,
+      "width": 2561,
+      "height": 1602,
+      "sha256": "51ab642d01de3e9b26fb55b637fe3247ad941516460fb60b9f4d4e1b27abc52b"
+    },
+    {
+      "path": "docs/images/sourcehan-v2.2.1-options.png",
+      "version": "思源黑体 v2.2.1",
+      "scene": "设置菜单及选中状态",
+      "kind": "actual-game-screenshot",
+      "pixelsUnmodified": true,
+      "width": 2561,
+      "height": 1602,
+      "sha256": "725f0d618d1903de800d6043ce69d54bb12c871a69675352000f04daa7ed3583"
+    },
+    {
+      "path": "docs/images/original-tooltip.png",
+      "version": "原汉化字体",
+      "scene": "游戏内匍匐提示",
+      "kind": "actual-game-screenshot",
+      "pixelsUnmodified": true,
+      "width": 2559,
+      "height": 1602,
+      "sha256": "c12229a82b305c5fb1742e3e52bef9110fbfb7986666036c08f897de1f6a5f0a"
+    },
+    {
+      "path": "docs/images/sourcehan-tooltip.png",
+      "version": "思源黑体 v2.2.0；v2.2.1 字库相同",
+      "scene": "游戏内走路提示",
+      "kind": "actual-game-screenshot",
+      "pixelsUnmodified": true,
+      "width": 2561,
+      "height": 1602,
+      "sha256": "8bcc4120cd1e1c4a286b57709f49462ad8ebdaa5517f47d4499cdaa4fe402ca8"
+    },
+    {
+      "path": "docs/images/original-dialogue.png",
+      "version": "原汉化字体",
+      "scene": "对白历史截图",
+      "kind": "actual-game-screenshot",
+      "pixelsUnmodified": true,
+      "width": 2559,
+      "height": 1602,
+      "sha256": "16390eff1ee1a2c5cdf2974efe9d5af1a0828b8141a0b1eb9736865d2f38cfe0"
+    },
+    {
+      "path": "docs/images/original-keybindings.png",
+      "version": "原汉化字体",
+      "scene": "按键列表历史截图",
+      "kind": "actual-game-screenshot",
+      "pixelsUnmodified": true,
+      "width": 2559,
+      "height": 1602,
+      "sha256": "3de1a848633a79d8d84806cbaaab5c7eb20f9a0bee2a23277674c5a5be0bf29c"
+    }
+  ],
+  "notes": [
+    "Screenshots are copied byte-for-byte; no AI generation, compositing, cropping or text replacement",
+    "Different captures have different play times, mouse positions and scene text",
+    "Historical mockups are excluded"
+  ]
+}

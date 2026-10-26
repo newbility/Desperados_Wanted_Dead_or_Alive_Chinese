@@ -5,3 +5,5 @@
 原补丁链接：[赏金奇兵1+2steam+gog汉化补丁（其乐 Keylol）](https://keylol.com/t100795-1-1)。
 
 本项目基于该补丁中的译文、中文字形、图片及字幕，对 Steam 新版进行资源适配，并补充 Demo 的中文菜单和操作指南。原简体中文译文及相关素材的贡献与署名归原作者和官方中文版制作方。
+
+中文字体采用 Adobe **思源黑体 Source Han Sans SC**，遵循 [SIL Open Font License 1.1](licenses/SourceHanSans-OFL.txt)。字形由该字体的真实轮廓重新栅格化；原汉化译文及素材的来源署名保留。

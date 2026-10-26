@@ -1,0 +1,34 @@
+{
+  "ok": true,
+  "changedMenuFonts": 4,
+  "otherResourcesByteIdentical": 27,
+  "buttonLineHeight": 33,
+  "minimumChineseVerticalPadding": 5,
+  "characterAdvancesAndLatinPreserved": true,
+  "fonts": [
+    {
+      "path": "data/interface/fonts/buttons_0.fnt",
+      "topMargin": 5,
+      "bottomMargin": 6,
+      "sha256": "6e13262d3ff637fe71b8f1e36d3d8c596b1e763356772e78d9db1a123e1de806"
+    },
+    {
+      "path": "data/interface/fonts/buttons_1.fnt",
+      "topMargin": 5,
+      "bottomMargin": 6,
+      "sha256": "95efebfc7763fb96f54f5dbcca5794cf5e4722fbe5b3b43ab77851ceb8ab8883"
+    },
+    {
+      "path": "data/interface/fonts/buttons_2.fnt",
+      "topMargin": 5,
+      "bottomMargin": 6,
+      "sha256": "170c315643816b7735ace61ed9c407cbc00920c998c54cb23b2472fa1ed06c77"
+    },
+    {
+      "path": "data/interface/fonts/buttons_3.fnt",
+      "topMargin": 5,
+      "bottomMargin": 6,
+      "sha256": "23b9b78e49e3d0d2e95ecb16bc4f1769abed002eb04bf34479b72e49897eabca"
+    }
+  ]
+}

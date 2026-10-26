@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "fonts": 13,
+  "nonFontResourcesUnchanged": 18,
+  "latinGlyphsPreserved": 1784,
+  "mappedChineseGlyphs": 1292,
+  "translationSpotChecks": 4,
+  "originalMetricsPreserved": true,
+  "verticalGlyphEdgesProtected": true,
+  "allAtlasesWithin32768": true,
+  "officialGameFilesUnchanged": 32
+}

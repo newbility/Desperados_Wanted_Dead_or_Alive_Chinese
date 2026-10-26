@@ -1,0 +1,9 @@
+{
+  "ok": true,
+  "fromVersion": "2.2.0",
+  "toVersion": "2.2.1",
+  "resources": 31,
+  "upgradedFonts": 4,
+  "repeatedInstallPreservesBackup": true,
+  "restoredToPristine": true
+}

@@ -1,14 +1,21 @@
 {
   "ok": true,
   "resources": 31,
-  "bytes": 186689994,
+  "fonts": 13,
+  "translatedGlyphs": 1292,
   "checks": [
-    "all payload hashes match the two verified packages",
-    "31 unique resource paths without conflicts",
-    "all Demo font and text dependencies provided by this package"
+    "all payload SHA-256 values verified",
+    "original line heights and per-character advances preserved",
+    "original Latin glyph pixels and metrics preserved",
+    "PUA resource IDs and translation text unchanged",
+    "all mapped Source Han Sans glyphs present",
+    "font atlas widths within 32768 pixels"
   ],
-  "sourcePackages": [
-    "修复版汉化补丁",
-    "Demo关卡汉化补丁"
-  ]
+  "packageVersion": "2.2.1",
+  "changesSince220": {
+    "menuFonts": 4,
+    "otherResourcesByteIdentical": 27
+  },
+  "menuInsetVerified": true,
+  "upgradeFrom220Verified": true
 }

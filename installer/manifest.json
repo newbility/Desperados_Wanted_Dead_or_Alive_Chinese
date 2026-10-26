@@ -1,0 +1,267 @@
+{
+  "game": "Desperados - Wanted Dead or Alive",
+  "steamBuild": "2959430",
+  "packageVersion": "2.2.1",
+  "chooseGameDirectory": true,
+  "scope": [
+    "main",
+    "demo"
+  ],
+  "executableSha256": "30ca9b806318a3fee99b28529bd502f4a87b5699b7bc5f3422ffd6b0d9221b06",
+  "legacyPackages": [
+    "合并版汉化补丁",
+    "修复版汉化补丁",
+    "Demo关卡汉化补丁",
+    "思源黑体清晰版汉化补丁_v2.2.0"
+  ],
+  "files": [
+    {
+      "path": "data/interface/debriefing/gameover1.sxt",
+      "originalSha256": "2e0f6b9946b9a6d4e6332fd3c913ab35004fc48cff62b76b6717bf92d4d6f6fd",
+      "patchedSha256": "2b0d9f08d9813cdb8892f0c4133a490dd1985034de3e69ce5573a5ecaeefcff3",
+      "bytes": 21378,
+      "upgradeSha256": []
+    },
+    {
+      "path": "data/interface/debriefing/victory.sxt",
+      "originalSha256": "3aad094d42d7561a59c785c3608e84f7d8e55a219fb1228563b31f1b6635280f",
+      "patchedSha256": "cb5a2cae6f6ddb7865f79062316e4ad831850cee92dc9b18f0882a701c7b311e",
+      "bytes": 13217,
+      "upgradeSha256": []
+    },
+    {
+      "path": "data/interface/fonts/buttons_0.fnt",
+      "originalSha256": "8ecf300fe6ac49046d747cac3bfbafff0fef7a6226b1fc59af761d60450bd671",
+      "patchedSha256": "6e13262d3ff637fe71b8f1e36d3d8c596b1e763356772e78d9db1a123e1de806",
+      "bytes": 157971,
+      "upgradeSha256": [
+        "1e79bcc8f82fb9f50fb9a41552921b3ef5b5275238971efaf141e3c97c406f54",
+        "9e0733dc8be5f05e7868df527d670f50fea53564ac572f18d1be095998d9806a"
+      ]
+    },
+    {
+      "path": "data/interface/fonts/buttons_1.fnt",
+      "originalSha256": "0454bc0bc1d98b74da86eb5938a294e096e08998805a477f5dd34760ae446a2d",
+      "patchedSha256": "95efebfc7763fb96f54f5dbcca5794cf5e4722fbe5b3b43ab77851ceb8ab8883",
+      "bytes": 156191,
+      "upgradeSha256": [
+        "f9e76d5c06341523f2377ce207c7d7a9ffdb77c6915f8db1ab03d9048323ba1d",
+        "ce85bec8b223836f8c922759a57a12bfd80d8f62916b9905a27ff7d28f7d4ae0"
+      ]
+    },
+    {
+      "path": "data/interface/fonts/buttons_2.fnt",
+      "originalSha256": "0d1eca9dd7460708573d63657ccf55733fb278034ffa88158d4a1f47e6226257",
+      "patchedSha256": "170c315643816b7735ace61ed9c407cbc00920c998c54cb23b2472fa1ed06c77",
+      "bytes": 159365,
+      "upgradeSha256": [
+        "574d78a0b78fc161aaebfc5de3d5a6c814b541af994f057d7fc5199c58ccbc85",
+        "33bccc768d9fa68aba9a4bb0fbac997f4539071b66a96e7c8a4ff500be5f44dd"
+      ]
+    },
+    {
+      "path": "data/interface/fonts/buttons_3.fnt",
+      "originalSha256": "564d9e50c72664bdd698933c9b710d6f53e8e5c3e748dc78d88718f082547a87",
+      "patchedSha256": "23b9b78e49e3d0d2e95ecb16bc4f1769abed002eb04bf34479b72e49897eabca",
+      "bytes": 154399,
+      "upgradeSha256": [
+        "000c07162a7da4429a147a11b6d77fdced01340a1d9a167ed1cb1f52c8cc93f9",
+        "79eb157aa5df8b645259c1f9f66a2d2829f0e01e29cdaa696a5898aaf601b5bc"
+      ]
+    },
+    {
+      "path": "data/interface/fonts/dialog.fnt",
+      "originalSha256": "5ab5a0bf2539dffad58ac52700cb54707018214026fc12a39e1a1939e57fb3d5",
+      "patchedSha256": "b12087a1d58c60777fb26f6f20ae08e58fee77962ff308f40bdffb620d9e6154",
+      "bytes": 847136,
+      "upgradeSha256": [
+        "f17bf910dc5e992e8285357013c8b2a71cb9d4757f8ddec5a595f0dd70850e86"
+      ]
+    },
+    {
+      "path": "data/interface/fonts/entries_0.fnt",
+      "originalSha256": "fbe1f29eb9eb1bb060766664783d862faf15ddf80a51756343d5924e02ce92ee",
+      "patchedSha256": "459b04d596b04cac10992766ec7980edeeae0b72cc54f42019716346f7b7a9a7",
+      "bytes": 149408,
+      "upgradeSha256": [
+        "f910fb7ee32d61acfe895c296a489c7f7510382ff153bf8e7252643f8fe22b72"
+      ]
+    },
+    {
+      "path": "data/interface/fonts/entries_1.fnt",
+      "originalSha256": "19ef123b8e5a0d8573692ebb61aa723641e8b62186f90102ef67e6d63eb7821f",
+      "patchedSha256": "db638bc1e5ebf173a5145b0b1255737f0f88e4e47576625e59fa2b787b3d7632",
+      "bytes": 153501,
+      "upgradeSha256": [
+        "077a199937cc11f4a849d4ce5ae2c7d8bcf248e0407570e88c7c237ee7e63b62"
+      ]
+    },
+    {
+      "path": "data/interface/fonts/list_0.fnt",
+      "originalSha256": "6c946a015845eeb9c7ddd8885d4dabf9be5e69a63fb6186c6bcc5ca10ae4a110",
+      "patchedSha256": "ec20fceb581e23bc28edf5d8611c86f9889d35e2af6c10a5c03e3208bf0a3f5a",
+      "bytes": 550516,
+      "upgradeSha256": [
+        "670fc898b59a8a0c18ee76854479c416f8bcf9e7dcb87c9aa81b5994e286d864"
+      ]
+    },
+    {
+      "path": "data/interface/fonts/list_1.fnt",
+      "originalSha256": "02509efb76b3576b64e39c0122eed2762e2c97cd74bfd4daa209c2b38d2f5506",
+      "patchedSha256": "56c041c821fd7eeadbbb60314eb98a0827495192ba012883af0af50ed62377b3",
+      "bytes": 542648,
+      "upgradeSha256": [
+        "6cba5da806e86078bd1f95f14de559b6518941eb5f5c826540126b55d87009c2"
+      ]
+    },
+    {
+      "path": "data/interface/fonts/list_2.fnt",
+      "originalSha256": "883cd4a802d55918fedcf9c9c10acc6d71fabd7bc9a2455f05c3402251984c8a",
+      "patchedSha256": "c76c3663c5db415589fc3dae3d94af0dc33b960f46c6a403659252a3e2499b68",
+      "bytes": 528322,
+      "upgradeSha256": [
+        "7374973e6b8f97b6e82bdecc9aed820801aae00090536a2d2b83b1b066064888"
+      ]
+    },
+    {
+      "path": "data/interface/fonts/tips.fnt",
+      "originalSha256": "da9484878933bbc52e23c8820b130e3a2cb28dd4e1051133001e75a8e1f2e6ef",
+      "patchedSha256": "374f65d214b0285ddfce37b480b214e47159b9c66b1b912672733e88102228c9",
+      "bytes": 546725,
+      "upgradeSha256": [
+        "1c0fc04bfd62f1a7ea06639b49312af69cc26116ae0d873f5b5f2959ce3ecc5c"
+      ]
+    },
+    {
+      "path": "data/interface/fonts/title.fnt",
+      "originalSha256": "8c6d5332b1a92c960023c1dc2137803ffb4cb849cd91528a9ec313e194ea0471",
+      "patchedSha256": "fe035485306bdbc048b8878efce733e8ab7317a4cddc9ed80c2d34e2ef973d3f",
+      "bytes": 373327,
+      "upgradeSha256": [
+        "e4d03899c058e7d0e97be1fa97f32a172ed053e339e2352006bc5892508d734a"
+      ]
+    },
+    {
+      "path": "data/interface/fonts/tooltips.fnt",
+      "originalSha256": "bd48088be36accfaf5d31767985c0753519f423f85428914e244e4dab8ba5729",
+      "patchedSha256": "58b1815cf69e4ff29a35d341064d1a5eeaef706208a37e245981ccdbcbaa266f",
+      "bytes": 551164,
+      "upgradeSha256": [
+        "c622270d13bf1e4e726041764021aae97853dfcecdb60e23a2c3b3654d62005a"
+      ]
+    },
+    {
+      "path": "demo/data/interface/default.res",
+      "originalSha256": "249718663cb19967a57459f934f735e1e7fd5653d862171498f432a188570b59",
+      "patchedSha256": "40973d44bc6742cb05ff5b7cb012ec60de58eab0c842097c8af74bcbd910b368",
+      "bytes": 5585658,
+      "upgradeSha256": []
+    },
+    {
+      "path": "demo/data/interface/tutorial.pak",
+      "originalSha256": "7ef57fe81f0d63480ad74475d6a99d41ae4798ff19a03138a362815bfcb2738e",
+      "patchedSha256": "e6a238cd9b6ea04800078f0f4eb744c76921327e7ec3d91be155225901c20201",
+      "bytes": 1117772,
+      "upgradeSha256": []
+    },
+    {
+      "path": "localisation/english/data/cinematics/01.ogv",
+      "originalSha256": "7224ed340d4dee863befbb2fed5509d6b93134f341ba388901bbec769ef21543",
+      "patchedSha256": "15874544b37f710ae328c38cb34edee978aefff7fd0af6ebf4d06e0867338d68",
+      "bytes": 61103420,
+      "upgradeSha256": []
+    },
+    {
+      "path": "localisation/english/data/cinematics/05.ogv",
+      "originalSha256": "d430179705d0dd6b2a3a45c474272f7f7fa209e9cf1659a72a6ae26b093dbc4e",
+      "patchedSha256": "fd837c4962041d6a743c80f23914e438de0376430ef84fb0a3020c6d6474050b",
+      "bytes": 12495795,
+      "upgradeSha256": []
+    },
+    {
+      "path": "localisation/english/data/cinematics/07.ogv",
+      "originalSha256": "49618475c9927c9a4f485225024f2972071d1ec59b45207b23c04782fa86a54d",
+      "patchedSha256": "5d147f3cdfc70f2b2f568b607a91166a594ec79bdbf2e262daad0f73597d5a85",
+      "bytes": 19847228,
+      "upgradeSha256": []
+    },
+    {
+      "path": "localisation/english/data/cinematics/09.ogv",
+      "originalSha256": "45da0c1a12d862211b0e7a18c1353a7492694d3ae9df51fb69e566ba41c6a215",
+      "patchedSha256": "b25712b27ba0dd4ab48d02fdd94b9b4b90d92549788dbd902b22841bf6510fb4",
+      "bytes": 14448637,
+      "upgradeSha256": []
+    },
+    {
+      "path": "localisation/english/data/cinematics/10.ogv",
+      "originalSha256": "b14fb00c0e359244f5d4cb4951d93bcafeef74897648fa211c82efb567f9047b",
+      "patchedSha256": "8cddf81100a1b29be3e18ca622afd82e2d4e38e31d41aeb99640ab503ddc9258",
+      "bytes": 18183689,
+      "upgradeSha256": []
+    },
+    {
+      "path": "localisation/english/data/cinematics/14.ogv",
+      "originalSha256": "d81025a25824bb45cbdea6928416a211712be21fd645f5f78a1862ca8da65f80",
+      "patchedSha256": "6b25206bb3a76cd131117e7ecfb93e14465a67805cc7aebfb36025989de47a6a",
+      "bytes": 5960753,
+      "upgradeSha256": []
+    },
+    {
+      "path": "localisation/english/data/cinematics/15.ogv",
+      "originalSha256": "9f8d7fd7e9d0a88a9d3e4df09f59a2b18a27a2f5606e63779095511be1fa20b6",
+      "patchedSha256": "69b9d36d9d817065dce0eeb3440eb01af2ff3ccc5be41b57b6255e11d8388939",
+      "bytes": 6531273,
+      "upgradeSha256": []
+    },
+    {
+      "path": "localisation/english/data/cinematics/16.ogv",
+      "originalSha256": "c4eb10463269b4f99672a37f5b389f949a4ce1179ed81c6e8627241c12faaa6a",
+      "patchedSha256": "592eba11393ca7b3cdebff2f50442bb4451ae5add2fc289f503f7a6e97fc7510",
+      "bytes": 6165578,
+      "upgradeSha256": []
+    },
+    {
+      "path": "localisation/english/data/cinematics/18.ogv",
+      "originalSha256": "44f67d2af77efe1532a11f2af83accc709562a6a4e2464ae261a42be661bf3d1",
+      "patchedSha256": "459255cd43cbcbf37889616ebb9165041e5112e7cfb610509e8d3a5b4cffd44b",
+      "bytes": 6829750,
+      "upgradeSha256": []
+    },
+    {
+      "path": "localisation/english/data/cinematics/21.ogv",
+      "originalSha256": "8935d472ece6ac7c1c74f048c480aac9756320d8e7f0538bcb242a92fe27b08a",
+      "patchedSha256": "89fb8d798ba8fcad3862cf28b4a2368429226258057e9eb04ceaefa475b3cb72",
+      "bytes": 5104543,
+      "upgradeSha256": []
+    },
+    {
+      "path": "localisation/english/data/cinematics/22.ogv",
+      "originalSha256": "d975b7cf18ce0277df304c1dca63f0c495046bc69fb9d37d293431ce9c396c81",
+      "patchedSha256": "52764ee8a051d8c2526de57176ca414033bca47cd886822042b3d9011241e171",
+      "bytes": 10772097,
+      "upgradeSha256": []
+    },
+    {
+      "path": "localisation/english/data/cinematics/23.ogv",
+      "originalSha256": "bf2cc7ee57889ce4e764aaa27672cfe73e476f7c950b8132251fa75c9893ccb8",
+      "patchedSha256": "b3dab6885684d9445a9cd5b48d3482cf746caacb120a1cbe0ea825167c8a147f",
+      "bytes": 4092712,
+      "upgradeSha256": []
+    },
+    {
+      "path": "localisation/english/data/interface/default.res",
+      "originalSha256": "a25216e1666c7583895ec9e6351d42cd7e13b1a7b09576416cb276901d4b4bc5",
+      "patchedSha256": "44986223cc6dd8666743a34dbd2974cfc1fed85fc004644081c4ab6f06abefa7",
+      "bytes": 5528875,
+      "upgradeSha256": []
+    },
+    {
+      "path": "localisation/english/data/interface/texts.res",
+      "originalSha256": "6c1436c48102641933e85b54b9e34cb54e7fdbec102805408afc2412afb5031c",
+      "patchedSha256": "58fe961b15285f10f994ad968c875b33c5e6891eba6700aab8beb5babb7a4932",
+      "bytes": 79332,
+      "upgradeSha256": []
+    }
+  ],
+  "fontEdition": "Source Han Sans SC - menu inset refinement"
+}

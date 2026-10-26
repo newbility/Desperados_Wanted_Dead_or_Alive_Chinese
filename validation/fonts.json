@@ -1,0 +1,202 @@
+{
+  "font": "Source Han Sans SC Regular",
+  "fontSha256": "f1d8611151880c6c336aabeac4640ef434fa13cbfbf1ffe82d0a71b2a5637256",
+  "mappingSha256": "a71bb360c5671c924a068b178436bdecdc71e24b7b3dc5a648cfd1dcec7058b0",
+  "mappingEntries": 1292,
+  "fonts": [
+    {
+      "name": "dialog.fnt",
+      "characters": 1454,
+      "chineseGlyphs": 1292,
+      "height": 30,
+      "advance": 29,
+      "atlasWidth": 29886,
+      "sha256": "b12087a1d58c60777fb26f6f20ae08e58fee77962ff308f40bdffb620d9e6154",
+      "style": {
+        "fill": "#f4e8b5",
+        "stroke": "#17140c",
+        "outline": 0.75
+      }
+    },
+    {
+      "name": "entries_0.fnt",
+      "characters": 329,
+      "chineseGlyphs": 213,
+      "height": 27,
+      "advance": 25,
+      "atlasWidth": 7434,
+      "sha256": "459b04d596b04cac10992766ec7980edeeae0b72cc54f42019716346f7b7a9a7",
+      "style": {
+        "fill": "#dfcda7",
+        "stroke": "#17140c",
+        "outline": 0.75
+      }
+    },
+    {
+      "name": "entries_1.fnt",
+      "characters": 329,
+      "chineseGlyphs": 213,
+      "height": 27,
+      "advance": 25,
+      "atlasWidth": 7434,
+      "sha256": "db638bc1e5ebf173a5145b0b1255737f0f88e4e47576625e59fa2b787b3d7632",
+      "style": {
+        "fill": "#ffdfa0",
+        "stroke": "#17140c",
+        "outline": 0.75
+      }
+    },
+    {
+      "name": "list_0.fnt",
+      "characters": 1454,
+      "chineseGlyphs": 1292,
+      "height": 19,
+      "advance": 20,
+      "atlasWidth": 24386,
+      "sha256": "ec20fceb581e23bc28edf5d8611c86f9889d35e2af6c10a5c03e3208bf0a3f5a",
+      "style": {
+        "fill": "#f4e8b5",
+        "stroke": "#17140c",
+        "outline": 0.6
+      }
+    },
+    {
+      "name": "list_1.fnt",
+      "characters": 1454,
+      "chineseGlyphs": 1292,
+      "height": 19,
+      "advance": 20,
+      "atlasWidth": 24386,
+      "sha256": "56c041c821fd7eeadbbb60314eb98a0827495192ba012883af0af50ed62377b3",
+      "style": {
+        "fill": "#ffd45c",
+        "stroke": "#17140c",
+        "outline": 0.6
+      }
+    },
+    {
+      "name": "list_2.fnt",
+      "characters": 1454,
+      "chineseGlyphs": 1292,
+      "height": 19,
+      "advance": 20,
+      "atlasWidth": 24386,
+      "sha256": "c76c3663c5db415589fc3dae3d94af0dc33b960f46c6a403659252a3e2499b68",
+      "style": {
+        "fill": "#ff9536",
+        "stroke": "#17140c",
+        "outline": 0.6
+      }
+    },
+    {
+      "name": "tips.fnt",
+      "characters": 1454,
+      "chineseGlyphs": 1292,
+      "height": 19,
+      "advance": 20,
+      "atlasWidth": 24386,
+      "sha256": "374f65d214b0285ddfce37b480b214e47159b9c66b1b912672733e88102228c9",
+      "style": {
+        "fill": "#d5f57c",
+        "stroke": "#17140c",
+        "outline": 0.6
+      }
+    },
+    {
+      "name": "title.fnt",
+      "characters": 329,
+      "chineseGlyphs": 213,
+      "height": 58,
+      "advance": 57,
+      "atlasWidth": 16097,
+      "sha256": "fe035485306bdbc048b8878efce733e8ab7317a4cddc9ed80c2d34e2ef973d3f",
+      "style": {
+        "fill": "#f4e8b5",
+        "stroke": "#17140c",
+        "outline": 1.15
+      }
+    },
+    {
+      "name": "tooltips.fnt",
+      "characters": 1454,
+      "chineseGlyphs": 1292,
+      "height": 19,
+      "advance": 20,
+      "atlasWidth": 24386,
+      "sha256": "58b1815cf69e4ff29a35d341064d1a5eeaef706208a37e245981ccdbcbaa266f",
+      "style": {
+        "fill": "#f4e8b5",
+        "stroke": "#17140c",
+        "outline": 0.6
+      }
+    },
+    {
+      "name": "buttons_0.fnt",
+      "characters": 329,
+      "chineseGlyphs": 213,
+      "height": 33,
+      "advance": 29,
+      "atlasWidth": 8210,
+      "sha256": "6e13262d3ff637fe71b8f1e36d3d8c596b1e763356772e78d9db1a123e1de806",
+      "style": {
+        "em": 22,
+        "baseline": 24.5,
+        "verticalPadding": 5.2,
+        "fill": "#33200e",
+        "stroke": "#f4e8c7",
+        "outline": 0.55
+      }
+    },
+    {
+      "name": "buttons_1.fnt",
+      "characters": 329,
+      "chineseGlyphs": 213,
+      "height": 33,
+      "advance": 29,
+      "atlasWidth": 8210,
+      "sha256": "95efebfc7763fb96f54f5dbcca5794cf5e4722fbe5b3b43ab77851ceb8ab8883",
+      "style": {
+        "em": 22,
+        "baseline": 24.5,
+        "verticalPadding": 5.2,
+        "fill": "#6b300b",
+        "stroke": "#fff0ca",
+        "outline": 0.55
+      }
+    },
+    {
+      "name": "buttons_2.fnt",
+      "characters": 329,
+      "chineseGlyphs": 213,
+      "height": 33,
+      "advance": 29,
+      "atlasWidth": 8210,
+      "sha256": "170c315643816b7735ace61ed9c407cbc00920c998c54cb23b2472fa1ed06c77",
+      "style": {
+        "em": 22,
+        "baseline": 24.5,
+        "verticalPadding": 5.2,
+        "fill": "#ffd45c",
+        "stroke": "#17140c",
+        "outline": 0.55
+      }
+    },
+    {
+      "name": "buttons_3.fnt",
+      "characters": 329,
+      "chineseGlyphs": 213,
+      "height": 33,
+      "advance": 29,
+      "atlasWidth": 8210,
+      "sha256": "23b9b78e49e3d0d2e95ecb16bc4f1769abed002eb04bf34479b72e49897eabca",
+      "style": {
+        "em": 22,
+        "baseline": 24.5,
+        "verticalPadding": 5.2,
+        "fill": "#ff8b74",
+        "stroke": "#17140c",
+        "outline": 0.55
+      }
+    }
+  ]
+}
