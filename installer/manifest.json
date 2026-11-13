@@ -1,7 +1,7 @@
 {
   "game": "Desperados - Wanted Dead or Alive",
   "steamBuild": "2959430",
-  "packageVersion": "2.2.1",
+  "packageVersion": "2.3.0",
   "chooseGameDirectory": true,
   "scope": [
     "main",
@@ -9,12 +9,22 @@
   ],
   "executableSha256": "30ca9b806318a3fee99b28529bd502f4a87b5699b7bc5f3422ffd6b0d9221b06",
   "legacyPackages": [
+    "Desperados_Original_Font_v2.3.0",
     "合并版汉化补丁",
+    "思源黑体清晰版汉化补丁",
     "修复版汉化补丁",
     "Demo关卡汉化补丁",
     "思源黑体清晰版汉化补丁_v2.2.0"
   ],
   "files": [
+    {
+      "path": "desperados.exe",
+      "originalSha256": "30ca9b806318a3fee99b28529bd502f4a87b5699b7bc5f3422ffd6b0d9221b06",
+      "patchedSha256": "40386362eea6f6502d69c53a01355bd047b1ccfebb2ff20d06be7347e569f2a3",
+      "bytes": 4356608,
+      "upgradeSha256": [],
+      "generatedFrom": "renderer-patch.json"
+    },
     {
       "path": "data/interface/debriefing/gameover1.sxt",
       "originalSha256": "2e0f6b9946b9a6d4e6332fd3c913ab35004fc48cff62b76b6717bf92d4d6f6fd",
@@ -32,122 +42,148 @@
     {
       "path": "data/interface/fonts/buttons_0.fnt",
       "originalSha256": "8ecf300fe6ac49046d747cac3bfbafff0fef7a6226b1fc59af761d60450bd671",
-      "patchedSha256": "6e13262d3ff637fe71b8f1e36d3d8c596b1e763356772e78d9db1a123e1de806",
-      "bytes": 157971,
+      "patchedSha256": "74594bddff66a42cc4006723d04bcc2e64f60454da9e5e60e03506bfedb67e80",
+      "bytes": 151538,
       "upgradeSha256": [
         "1e79bcc8f82fb9f50fb9a41552921b3ef5b5275238971efaf141e3c97c406f54",
+        "c526f925d3072a3980ec7beccd2f261d893184b3ebd18eb86b64b45892f953e8",
+        "6e13262d3ff637fe71b8f1e36d3d8c596b1e763356772e78d9db1a123e1de806",
         "9e0733dc8be5f05e7868df527d670f50fea53564ac572f18d1be095998d9806a"
       ]
     },
     {
       "path": "data/interface/fonts/buttons_1.fnt",
       "originalSha256": "0454bc0bc1d98b74da86eb5938a294e096e08998805a477f5dd34760ae446a2d",
-      "patchedSha256": "95efebfc7763fb96f54f5dbcca5794cf5e4722fbe5b3b43ab77851ceb8ab8883",
-      "bytes": 156191,
+      "patchedSha256": "dbffef86c129b3283bc9424b213b32cb9fe1076ddba3b041c0dfbcadc15ff6c1",
+      "bytes": 149720,
       "upgradeSha256": [
         "f9e76d5c06341523f2377ce207c7d7a9ffdb77c6915f8db1ab03d9048323ba1d",
+        "9746031ba3b3f00d77ab2028ab4b30452f85661772c7fb80c5757db93f39100b",
+        "95efebfc7763fb96f54f5dbcca5794cf5e4722fbe5b3b43ab77851ceb8ab8883",
         "ce85bec8b223836f8c922759a57a12bfd80d8f62916b9905a27ff7d28f7d4ae0"
       ]
     },
     {
       "path": "data/interface/fonts/buttons_2.fnt",
       "originalSha256": "0d1eca9dd7460708573d63657ccf55733fb278034ffa88158d4a1f47e6226257",
-      "patchedSha256": "170c315643816b7735ace61ed9c407cbc00920c998c54cb23b2472fa1ed06c77",
-      "bytes": 159365,
+      "patchedSha256": "3fee03c22100ad5497fbcbe4191acfa44eb24e51896275070de1eb2d6b0f2e98",
+      "bytes": 152814,
       "upgradeSha256": [
         "574d78a0b78fc161aaebfc5de3d5a6c814b541af994f057d7fc5199c58ccbc85",
+        "76b656fbac8ac463ce602c70144815b5f0380f72adc12f81371cf5342d5e27a2",
+        "170c315643816b7735ace61ed9c407cbc00920c998c54cb23b2472fa1ed06c77",
         "33bccc768d9fa68aba9a4bb0fbac997f4539071b66a96e7c8a4ff500be5f44dd"
       ]
     },
     {
       "path": "data/interface/fonts/buttons_3.fnt",
       "originalSha256": "564d9e50c72664bdd698933c9b710d6f53e8e5c3e748dc78d88718f082547a87",
-      "patchedSha256": "23b9b78e49e3d0d2e95ecb16bc4f1769abed002eb04bf34479b72e49897eabca",
-      "bytes": 154399,
+      "patchedSha256": "141a394f90410aa99ea216ef5974c60dde3e61fc9de737d4a9ce2b288ff092f7",
+      "bytes": 147831,
       "upgradeSha256": [
         "000c07162a7da4429a147a11b6d77fdced01340a1d9a167ed1cb1f52c8cc93f9",
+        "01c7cde49786294296dfa11b44ccb43338320be3f3d82c88e7be319052c3d2db",
+        "23b9b78e49e3d0d2e95ecb16bc4f1769abed002eb04bf34479b72e49897eabca",
         "79eb157aa5df8b645259c1f9f66a2d2829f0e01e29cdaa696a5898aaf601b5bc"
       ]
     },
     {
       "path": "data/interface/fonts/dialog.fnt",
       "originalSha256": "5ab5a0bf2539dffad58ac52700cb54707018214026fc12a39e1a1939e57fb3d5",
-      "patchedSha256": "b12087a1d58c60777fb26f6f20ae08e58fee77962ff308f40bdffb620d9e6154",
-      "bytes": 847136,
+      "patchedSha256": "e14699bee8fa09409f0f0a191a81761f8f3d82af6ce16af84dcb5f27246422f1",
+      "bytes": 822054,
       "upgradeSha256": [
-        "f17bf910dc5e992e8285357013c8b2a71cb9d4757f8ddec5a595f0dd70850e86"
+        "f17bf910dc5e992e8285357013c8b2a71cb9d4757f8ddec5a595f0dd70850e86",
+        "e631969d269c286db5350161c44026f556dde3472bf238147971ef89abbca9eb",
+        "b12087a1d58c60777fb26f6f20ae08e58fee77962ff308f40bdffb620d9e6154"
       ]
     },
     {
       "path": "data/interface/fonts/entries_0.fnt",
       "originalSha256": "fbe1f29eb9eb1bb060766664783d862faf15ddf80a51756343d5924e02ce92ee",
-      "patchedSha256": "459b04d596b04cac10992766ec7980edeeae0b72cc54f42019716346f7b7a9a7",
-      "bytes": 149408,
+      "patchedSha256": "e690753903fdebb852ddfb2c94abec10437e7ea6e0bee8caa77524482d74b824",
+      "bytes": 145800,
       "upgradeSha256": [
-        "f910fb7ee32d61acfe895c296a489c7f7510382ff153bf8e7252643f8fe22b72"
+        "f910fb7ee32d61acfe895c296a489c7f7510382ff153bf8e7252643f8fe22b72",
+        "7768aeff8742953cb15d63ebffe82163de258873d9ba48bb0eada81afffc5cb5",
+        "459b04d596b04cac10992766ec7980edeeae0b72cc54f42019716346f7b7a9a7"
       ]
     },
     {
       "path": "data/interface/fonts/entries_1.fnt",
       "originalSha256": "19ef123b8e5a0d8573692ebb61aa723641e8b62186f90102ef67e6d63eb7821f",
-      "patchedSha256": "db638bc1e5ebf173a5145b0b1255737f0f88e4e47576625e59fa2b787b3d7632",
-      "bytes": 153501,
+      "patchedSha256": "e00984786247499516bc879290fbd9eda32ce0d1dd2994eaa6bdfc82a9847970",
+      "bytes": 149930,
       "upgradeSha256": [
-        "077a199937cc11f4a849d4ce5ae2c7d8bcf248e0407570e88c7c237ee7e63b62"
+        "077a199937cc11f4a849d4ce5ae2c7d8bcf248e0407570e88c7c237ee7e63b62",
+        "25b419ceb10ecd44e01ae2575beadbd7aff5b011d6a2efb81d7ebb329176dee0",
+        "db638bc1e5ebf173a5145b0b1255737f0f88e4e47576625e59fa2b787b3d7632"
       ]
     },
     {
       "path": "data/interface/fonts/list_0.fnt",
       "originalSha256": "6c946a015845eeb9c7ddd8885d4dabf9be5e69a63fb6186c6bcc5ca10ae4a110",
-      "patchedSha256": "ec20fceb581e23bc28edf5d8611c86f9889d35e2af6c10a5c03e3208bf0a3f5a",
-      "bytes": 550516,
+      "patchedSha256": "36ffb2948900dc3732c9d71b246e01d505980605d64c856dbb8b328abd6dde8b",
+      "bytes": 552110,
       "upgradeSha256": [
-        "670fc898b59a8a0c18ee76854479c416f8bcf9e7dcb87c9aa81b5994e286d864"
+        "670fc898b59a8a0c18ee76854479c416f8bcf9e7dcb87c9aa81b5994e286d864",
+        "dee10a9d85abeeea4ed3874d778f269265a17e5fb28b55a43fefa066798a3d91",
+        "ec20fceb581e23bc28edf5d8611c86f9889d35e2af6c10a5c03e3208bf0a3f5a"
       ]
     },
     {
       "path": "data/interface/fonts/list_1.fnt",
       "originalSha256": "02509efb76b3576b64e39c0122eed2762e2c97cd74bfd4daa209c2b38d2f5506",
-      "patchedSha256": "56c041c821fd7eeadbbb60314eb98a0827495192ba012883af0af50ed62377b3",
-      "bytes": 542648,
+      "patchedSha256": "4ffcdcbc60f31db218571c7f205cb4748c56a36014772dd1fad0006573c8abac",
+      "bytes": 544547,
       "upgradeSha256": [
-        "6cba5da806e86078bd1f95f14de559b6518941eb5f5c826540126b55d87009c2"
+        "6cba5da806e86078bd1f95f14de559b6518941eb5f5c826540126b55d87009c2",
+        "4c48aa7c4b54a74270a09604864cd7eeee329c4c97b9a11a57d05f645cb4664a",
+        "56c041c821fd7eeadbbb60314eb98a0827495192ba012883af0af50ed62377b3"
       ]
     },
     {
       "path": "data/interface/fonts/list_2.fnt",
       "originalSha256": "883cd4a802d55918fedcf9c9c10acc6d71fabd7bc9a2455f05c3402251984c8a",
-      "patchedSha256": "c76c3663c5db415589fc3dae3d94af0dc33b960f46c6a403659252a3e2499b68",
-      "bytes": 528322,
+      "patchedSha256": "597b3f46ab9bec5b6c89bed334268476c89059d712680c9d7d23f5bd3b7dd0a9",
+      "bytes": 529950,
       "upgradeSha256": [
-        "7374973e6b8f97b6e82bdecc9aed820801aae00090536a2d2b83b1b066064888"
+        "7374973e6b8f97b6e82bdecc9aed820801aae00090536a2d2b83b1b066064888",
+        "01939eb391f413171f677597da667f04f173e169fee7928a8cf0502f8353d568",
+        "c76c3663c5db415589fc3dae3d94af0dc33b960f46c6a403659252a3e2499b68"
       ]
     },
     {
       "path": "data/interface/fonts/tips.fnt",
       "originalSha256": "da9484878933bbc52e23c8820b130e3a2cb28dd4e1051133001e75a8e1f2e6ef",
-      "patchedSha256": "374f65d214b0285ddfce37b480b214e47159b9c66b1b912672733e88102228c9",
-      "bytes": 546725,
+      "patchedSha256": "754444915bfc1988b4fdb29de3fe4dfd249fde1abb9d324281314091e6833012",
+      "bytes": 548347,
       "upgradeSha256": [
-        "1c0fc04bfd62f1a7ea06639b49312af69cc26116ae0d873f5b5f2959ce3ecc5c"
+        "1c0fc04bfd62f1a7ea06639b49312af69cc26116ae0d873f5b5f2959ce3ecc5c",
+        "0ed26a17b10529a55ac028ed61c8e2dc1928583fcf7e0eee599c61f94baf6c7d",
+        "374f65d214b0285ddfce37b480b214e47159b9c66b1b912672733e88102228c9"
       ]
     },
     {
       "path": "data/interface/fonts/title.fnt",
       "originalSha256": "8c6d5332b1a92c960023c1dc2137803ffb4cb849cd91528a9ec313e194ea0471",
-      "patchedSha256": "fe035485306bdbc048b8878efce733e8ab7317a4cddc9ed80c2d34e2ef973d3f",
-      "bytes": 373327,
+      "patchedSha256": "5669375ea125d6df1f9454b96b1a75a01acaa4ec8e6b45cdf231d7416e898c3c",
+      "bytes": 345474,
       "upgradeSha256": [
-        "e4d03899c058e7d0e97be1fa97f32a172ed053e339e2352006bc5892508d734a"
+        "e4d03899c058e7d0e97be1fa97f32a172ed053e339e2352006bc5892508d734a",
+        "eb17d472baebeb1c0ded7408712a88d7fd5a1a9b86230e988c46c48535c3d1b4",
+        "fe035485306bdbc048b8878efce733e8ab7317a4cddc9ed80c2d34e2ef973d3f"
       ]
     },
     {
       "path": "data/interface/fonts/tooltips.fnt",
       "originalSha256": "bd48088be36accfaf5d31767985c0753519f423f85428914e244e4dab8ba5729",
-      "patchedSha256": "58b1815cf69e4ff29a35d341064d1a5eeaef706208a37e245981ccdbcbaa266f",
-      "bytes": 551164,
+      "patchedSha256": "ea227e0dd9199c9ebe3969ae0e049c5f1766e23ef577b8139fae230a7f086d31",
+      "bytes": 552427,
       "upgradeSha256": [
-        "c622270d13bf1e4e726041764021aae97853dfcecdb60e23a2c3b3654d62005a"
+        "c622270d13bf1e4e726041764021aae97853dfcecdb60e23a2c3b3654d62005a",
+        "dc808022695de435c3fd0c9bdc23a035319cac2700e10431f8122c9687886bee",
+        "58b1815cf69e4ff29a35d341064d1a5eeaef706208a37e245981ccdbcbaa266f"
       ]
     },
     {
@@ -263,5 +299,8 @@
       "upgradeSha256": []
     }
   ],
-  "fontEdition": "Source Han Sans SC - menu inset refinement"
+  "fontEdition": "sourcehan",
+  "compatibilityFix": "lossless-4096-multirow-atlas",
+  "patchedExecutableSha256": "40386362eea6f6502d69c53a01355bd047b1ccfebb2ff20d06be7347e569f2a3",
+  "rendererPatchSha256": "452f12e4582b5ddd7d175ca974c00488cb5d33d2050ee1a159962779ca1de220"
 }

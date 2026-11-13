@@ -1,0 +1,171 @@
+{
+  "format": "Desperados-sparse-patch-v1",
+  "version": "2.3.0",
+  "originalBytes": 4356096,
+  "originalSha256": "30ca9b806318a3fee99b28529bd502f4a87b5699b7bc5f3422ffd6b0d9221b06",
+  "patchedBytes": 4356608,
+  "patchedSha256": "40386362eea6f6502d69c53a01355bd047b1ccfebb2ff20d06be7347e569f2a3",
+  "edits": [
+    {
+      "offset": 270,
+      "before": "Bg==",
+      "after": "Bw=="
+    },
+    {
+      "offset": 293,
+      "before": "fA==",
+      "after": "fg=="
+    },
+    {
+      "offset": 345,
+      "before": "UA==",
+      "after": "YA=="
+    },
+    {
+      "offset": 752,
+      "before": "AAAAAAAAAA==",
+      "after": "LmNuZm9udA=="
+    },
+    {
+      "offset": 760,
+      "before": "AA==",
+      "after": "lw=="
+    },
+    {
+      "offset": 765,
+      "before": "AAA=",
+      "after": "UFM="
+    },
+    {
+      "offset": 769,
+      "before": "AA==",
+      "after": "Ag=="
+    },
+    {
+      "offset": 773,
+      "before": "AAA=",
+      "after": "eEI="
+    },
+    {
+      "offset": 788,
+      "before": "AA==",
+      "after": "IA=="
+    },
+    {
+      "offset": 791,
+      "before": "AA==",
+      "after": "YA=="
+    },
+    {
+      "offset": 864783,
+      "before": "TIPBTP9QMA==",
+      "after": "MJCQkJCQkA=="
+    },
+    {
+      "offset": 865380,
+      "before": "TIPBTP9QMA==",
+      "after": "MJCQkJCQkA=="
+    },
+    {
+      "offset": 865686,
+      "before": "TIPBTP9QMA==",
+      "after": "MJCQkJCQkA=="
+    },
+    {
+      "offset": 866036,
+      "before": "TIPBTP9QMA==",
+      "after": "MJCQkJCQkA=="
+    },
+    {
+      "offset": 1244943,
+      "before": "TIPBTP9QMA==",
+      "after": "MJCQkJCQkA=="
+    },
+    {
+      "offset": 1245110,
+      "before": "TIPBTP9QMA==",
+      "after": "MJCQkJCQkA=="
+    },
+    {
+      "offset": 1245454,
+      "before": "TIPBTP9QMA==",
+      "after": "MJCQkJCQkA=="
+    },
+    {
+      "offset": 1869322,
+      "before": "Af9QMA==",
+      "after": "QeSQkA=="
+    },
+    {
+      "offset": 1869440,
+      "before": "DBsA",
+      "after": "fL02"
+    },
+    {
+      "offset": 1869593,
+      "before": "Af9QMA==",
+      "after": "QeSQkA=="
+    },
+    {
+      "offset": 1869735,
+      "before": "NXAA",
+      "after": "tbw2"
+    },
+    {
+      "offset": 1870250,
+      "before": "TIPBTP9QMA==",
+      "after": "MJCQkJCQkA=="
+    },
+    {
+      "offset": 1871723,
+      "before": "/1Aw",
+      "after": "i0Hk"
+    },
+    {
+      "offset": 1972592,
+      "before": "Af9QMA==",
+      "after": "QeSQkA=="
+    },
+    {
+      "offset": 1974559,
+      "before": "/1Aw",
+      "after": "i0Hk"
+    },
+    {
+      "offset": 1974667,
+      "before": "TIPBTP9QMA==",
+      "after": "MJCQkJCQkA=="
+    },
+    {
+      "offset": 1974700,
+      "before": "TIPBTP9QMA==",
+      "after": "MJCQkJCQkA=="
+    },
+    {
+      "offset": 1978960,
+      "before": "Af9QMA==",
+      "after": "QeSQkA=="
+    },
+    {
+      "offset": 1978975,
+      "before": "TIPBTP9QMA==",
+      "after": "MJCQkJCQkA=="
+    },
+    {
+      "offset": 1978997,
+      "before": "TIPBTP9QMA==",
+      "after": "MJCQkJCQkA=="
+    },
+    {
+      "offset": 1979015,
+      "before": "TIPBTP9QMA==",
+      "after": "MJCQkJCQkA=="
+    },
+    {
+      "offset": 1979117,
+      "before": "/1Aw",
+      "after": "i0Hk"
+    }
+  ],
+  "append": "UYtPBIF5CEQyRDF1PosDicIl/w8AAMHqDA+vUTDzDyrA8w8RRCQIA0ME8w8qwPMPEUQkEPMPKsLzDxFEJAwDUTDzDyrC8w8RRCQUWek/Xcn/zMzMzMzMzMzMzMzMzMzMUYtPBIF5CEQyRDF1JIsDicIl/w8AAMHqDA+vUTDzDyrA8w8RRCQI8w8qwvMPEUQkDFnpSbPJ/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+}

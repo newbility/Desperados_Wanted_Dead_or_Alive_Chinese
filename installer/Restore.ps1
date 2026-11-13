@@ -1,5 +1,17 @@
-param()
+﻿param()
 $ErrorActionPreference='Stop'
+function Put([string]$Source,[string]$Target){
+ $temp=$Target+'.cnfont-'+[Guid]::NewGuid().ToString('N')
+ $previous=$temp+'.previous'
+ try{
+  [IO.File]::Copy($Source,$temp)
+  [IO.File]::Replace($temp,$Target,$previous)
+ }finally{
+  if(Test-Path -LiteralPath $temp){[IO.File]::Delete($temp)}
+  if(Test-Path -LiteralPath $previous){[IO.File]::Delete($previous)}
+ }
+}
+
 $receiptPath=Join-Path $PSScriptRoot 'installation.json'
 $receipt=Get-Content -LiteralPath $receiptPath -Raw -Encoding UTF8|ConvertFrom-Json
 if($receipt.state -eq 'restored'){Write-Output 'Main game and Demo have already been restored.';return}
@@ -15,7 +27,7 @@ foreach($entry in $receipt.files){
 }
 foreach($entry in $receipt.files){
  $target=Join-Path $receipt.gameDir $entry.path
- Copy-Item -LiteralPath (Join-Path $backupRoot $entry.path) -Destination $target -Force
+ Put (Join-Path $backupRoot $entry.path) $target
  if((Get-FileHash -LiteralPath $target -Algorithm SHA256).Hash -ne $entry.originalSha256){throw "Restored resource failed verification: $($entry.path)"}
 }
 $receipt.state='restored'
